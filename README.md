@@ -12,7 +12,7 @@
 
 🌱 Sigo aprendiendo sobre tecnologías de desarrollo frontend y backend, con muchas ganas de mejorar día a día.
 
-🚀 Mi objetivo es seguir creciendo como desarrolladora, aprender nuevas herramientas y dar ideas innovadoras.
+ Mi objetivo es seguir creciendo como desarrolladora, aprender nuevas herramientas y dar ideas innovadoras.
 ---
 
 ##### Languages I use
