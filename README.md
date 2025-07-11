@@ -4,14 +4,15 @@
 
 
 
-👨‍💻 Actualmente participo en proyectos de aprendizaje automático utilizando Java.
+🎓 Estudio Ingeniería en Sistemas  y me apasiona la tecnología.
 
-🧠 Manejo otros lenguajes de programación como Python y tengo conocimientos básicos en ensamblador (ASM).
+👨‍💻 Actualmente participo en proyectos de aprendizaje usando Java.
 
-📚 En constante formación en tecnologías de desarrollo frontend y backend.
+🐍 También programo en Python y tengo conocimientos básicos en ensamblador.
 
-💪🏼 Objetivo a futuro: seguir ampliando mis conocimientos tecnológicos y desarrollar ideas innovadoras de forma continua
+🌱 Sigo aprendiendo sobre tecnologías de desarrollo frontend y backend, con muchas ganas de mejorar día a día.
 
+🚀 Mi objetivo es seguir creciendo como desarrolladora, aprender nuevas herramientas y dar ideas innovadoras.
 ---
 
 ##### Languages I use
