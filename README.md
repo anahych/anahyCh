@@ -4,9 +4,13 @@
 
 
 
-- 👨‍💻 I’m currently working on machine learning and data mining projects using Java.
-- 📚 Learning everything about Frontend and Backend technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+👨‍💻 Actualmente participo en proyectos de aprendizaje automático utilizando Java.
+
+🧠 Manejo otros lenguajes de programación como Python y tengo conocimientos básicos en ensamblador (ASM).
+
+📚 En constante formación en tecnologías de desarrollo frontend y backend.
+
+💪🏼 Objetivo a futuro: seguir ampliando mis conocimientos tecnológicos y desarrollar ideas innovadoras de forma continua
 
 ---
 
